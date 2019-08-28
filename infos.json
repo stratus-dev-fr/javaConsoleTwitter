@@ -1,0 +1,21 @@
+{
+    "sendTweet": [
+                  "https://goo.gl/TsfsJZ #savepewdiepie"
+                 ],
+
+    "sendTweetMediaMSG" : [
+                           "Ouch..."
+                          ],
+    
+    "sendTweetMediaIMG" : [
+                           "./bourse.PNG"
+                          ],
+                        
+    "searchTweetHashtag" : [
+                            "#apple"
+                           ],
+
+    "searchTweetLang" : [
+                         "fr"
+                        ]
+}
